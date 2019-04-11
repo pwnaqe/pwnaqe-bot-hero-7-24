@@ -1,1 +1,0 @@
-# pwnaqe-bot-hero-7-24

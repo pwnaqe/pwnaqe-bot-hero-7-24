@@ -1,6 +1,0 @@
-worker node bot.js
-web npm i discord.js
-web npm i moment
-web npm i chalk
-web npm i fs
-web npm i ytdl-core
